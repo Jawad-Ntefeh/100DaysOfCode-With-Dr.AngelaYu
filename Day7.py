@@ -45,4 +45,3 @@ while not game_over:  # Game Loop
         game_over = True  # Redundant but makes the code easier to read
         print("you won!")
         break # break is inserted to prevent a useless print of "display"
-
