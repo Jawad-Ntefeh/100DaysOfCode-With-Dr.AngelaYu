@@ -1,6 +1,6 @@
 import random
 
-# Rock Paper Scissors Project
+# Day 4 Project : Rock Paper Scissors Project
 
 Rock = '''
     _______
