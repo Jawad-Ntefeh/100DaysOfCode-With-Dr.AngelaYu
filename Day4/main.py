@@ -1,37 +1,5 @@
 import random
 
-# print(random.random()**random.randint(1,5))
-
-#Randomly selects someone to pay for dinner
-# names = input("Give me the names separated by ', ': ").split(", ")
-# print(f"{names[random.randint(0,len(names)-1)]} will pay for dinner today!")
-
-# #Burry your treasure on the map
-# row1 = ["⬜️","⬜️","⬜️"]
-# row2 = ["⬜️","⬜️","⬜️"]
-# row3 = ["⬜️","⬜️","⬜️"]
-#
-# map = [row1, row2, row3]
-# print(f"{row1}\n{row2}\n{row3}")
-#
-# position = input("Where do you want to put the treasure? ")
-#
-# if position[0] == '1':
-#     row1[int(position[1])-1] = 'X'
-# elif position[0] == '2':
-#     row2[int(position[1])-1] = 'X'
-# elif position[0] == '3':
-#     row3[int(position[1])-1] = 'X'
-#
-# map = [row1,row2,row3]
-#
-# Alternate Solution
-# horizontal = int(position[0])
-# vertical = int(position[1])
-# map[vertical-1][horizontal-1] = "X"
-#
-# print(f"{row1}\n{row2}\n{row3}")
-
 # Rock Paper Scissors Project
 
 Rock = '''
