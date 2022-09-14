@@ -1,4 +1,4 @@
-# Day 5 Project: Password Generator
+# Day 5 Project : Password Generator
 
 import random
 
